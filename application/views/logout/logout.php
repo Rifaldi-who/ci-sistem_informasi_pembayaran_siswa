@@ -1,0 +1,1 @@
+<a href="<?= base_url('auth') ?>"><i class="fa fa-sign-out"></i> Logout</a>
